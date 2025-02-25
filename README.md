@@ -1,5 +1,22 @@
 # CNN_model_cifar10
 Image Classification using Convolutional Neural Networks (CNNs)
+
+
+# CodSoft Internship - CNN Image Classification  
+
+This project was developed as part of my **Machine Learning Internship at CodSoft**, where I explored deep learning techniques for **image classification**. The goal was to build a **CNN-based model** capable of accurately categorizing images into different classes while experimenting with **transfer learning, data augmentation, and model optimization**.  
+
+### 🔹 Project Overview  
+- Built a **custom CNN model** to classify images from the **CIFAR-10 dataset** into 10 categories.  
+- Implemented **data preprocessing techniques**, including normalization and augmentation, to improve model generalization.  
+- Used **transfer learning** to enhance accuracy and reduce training time.  
+- Achieved **65-70% accuracy** after fine-tuning the model with regularization and hyperparameter tuning.  
+- Evaluated the model using **confusion matrix, accuracy, precision, recall, and F1-score**, with visualizations to analyze performance.  
+
+This project gave me hands-on experience in training and optimizing deep learning models while improving my understanding of **computer vision and neural networks**. It also reinforced my ability to work with frameworks like **TensorFlow, Keras, and OpenCV** to develop practical machine-learning applications.  
+
+
+
 This project involves building an image classification system using Convolutional Neural Networks (CNNs). The system is designed to classify images into various categories with high accuracy. The project uses a custom CNN architecture and applies techniques like data augmentation and transfer learning to achieve high performance.
 
 Table of Contents
