@@ -2,18 +2,19 @@
 Image Classification using Convolutional Neural Networks (CNNs)
 
 
-# CodSoft Internship - CNN Image Classification  
+# Teachnook Internship - CNN Image Classification  
 
-This project was developed as part of my **Machine Learning Internship at CodSoft**, where I explored deep learning techniques for **image classification**. The goal was to build a **CNN-based model** capable of accurately categorizing images into different classes while experimenting with **transfer learning, data augmentation, and model optimization**.  
+This project was developed as part of my **Machine Learning Internship at Teachnook**, where I worked on image classification using **Convolutional Neural Networks (CNNs)**. The objective was to build a deep learning model that can accurately classify images into different categories by leveraging **transfer learning, data augmentation, and optimization techniques**.  
 
 ### 🔹 Project Overview  
-- Built a **custom CNN model** to classify images from the **CIFAR-10 dataset** into 10 categories.  
-- Implemented **data preprocessing techniques**, including normalization and augmentation, to improve model generalization.  
-- Used **transfer learning** to enhance accuracy and reduce training time.  
-- Achieved **65-70% accuracy** after fine-tuning the model with regularization and hyperparameter tuning.  
-- Evaluated the model using **confusion matrix, accuracy, precision, recall, and F1-score**, with visualizations to analyze performance.  
+- Designed and trained a **custom CNN model** for image classification using the **CIFAR-10 dataset**.  
+- Applied **data preprocessing techniques** like normalization and augmentation to improve model performance.  
+- Integrated **transfer learning** to enhance accuracy and optimize training time.  
+- Achieved **65-70% accuracy** after fine-tuning with regularization and hyperparameter tuning.  
+- Evaluated the model using **confusion matrix, accuracy, precision, recall, and F1-score**, with visualizations for deeper analysis.  
 
-This project gave me hands-on experience in training and optimizing deep learning models while improving my understanding of **computer vision and neural networks**. It also reinforced my ability to work with frameworks like **TensorFlow, Keras, and OpenCV** to develop practical machine-learning applications.  
+This project gave me hands-on experience in **deep learning, computer vision, and neural networks** while working with frameworks like **TensorFlow, and Keras**. It strengthened my understanding of model training, evaluation, and optimization for real-world applications.  
+ 
 
 
 
