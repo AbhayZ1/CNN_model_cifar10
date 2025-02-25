@@ -16,6 +16,8 @@ This project was developed as part of my **Machine Learning Internship at Teachn
 This project gave me hands-on experience in **deep learning, computer vision, and neural networks** while working with frameworks like **TensorFlow, and Keras**. It strengthened my understanding of model training, evaluation, and optimization for real-world applications.  
  
 
+![image](https://github.com/user-attachments/assets/baeda592-82b3-45f4-a908-8b48aebc2cba)
+
 
 
 This project involves building an image classification system using Convolutional Neural Networks (CNNs). The system is designed to classify images into various categories with high accuracy. The project uses a custom CNN architecture and applies techniques like data augmentation and transfer learning to achieve high performance.
